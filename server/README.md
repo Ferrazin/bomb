@@ -1,4 +1,4 @@
-# Tic Tac Toe Server
+# Mine Sweeper Server
 
 This is a server for playing a multiplayer Tic Tac Toe game. 
 
